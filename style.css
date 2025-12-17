@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.nav-link {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.8) rgba(0, 0, 0, 0.8));
+}
+.hero h1 {
+    letter-spacing: 3px;
+}
+.hero p {
+    color: #ddd;
+}
+.card-title {
+    letter-spacing: 1px;
+}
+.card-text {
+    color: #555;
+}
