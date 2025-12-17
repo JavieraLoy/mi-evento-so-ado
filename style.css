@@ -25,3 +25,6 @@ body {
 .card-text {
     color: #555;
 }
+footer small {
+    letter-spacing: 1px;
+}
